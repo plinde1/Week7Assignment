@@ -2,4 +2,4 @@
 ## Week 7 Assignment
 ## Pierson Linde
 
-https://plinde1.github.io/Week7Assignment/
+<https://plinde1.github.io/Week7Assignment/index.html>
